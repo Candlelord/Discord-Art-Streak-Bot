@@ -1,0 +1,15 @@
+{
+  "updateChannelId": null,
+  "artChannels": [],
+  "roles": [
+    { "name": "Bronze Artist", "minStreak": 3, "color": 0xCD7F32 },
+    { "name": "Silver Artist", "minStreak": 7, "color": 0xC0C0C0 },
+    { "name": "Gold Artist", "minStreak": 14, "color": 0xFFD700 },
+    { "name": "Platinum Artist", "minStreak": 30, "color": 0xE5E4E2 },
+    { "name": "Sapphire Artist", "minStreak": 50, "color": 0x0F52BA },
+    { "name": "Ruby Artist", "minStreak": 100, "color": 0xE0115F },
+    { "name": "Emerald Artist", "minStreak": 180, "color": 0x50C878 },
+    { "name": "Diamond Artist", "minStreak": 365, "color": 0xB9F2FF },
+    { "name": "Cracked Artist", "minStreak": 500, "color": 0xFF00FF }
+  ]
+}

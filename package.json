@@ -1,0 +1,19 @@
+{
+  "name": "art-streak-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that tracks art posting streaks and assigns roles",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "node-cron": "^4.2.1"
+  }
+}
